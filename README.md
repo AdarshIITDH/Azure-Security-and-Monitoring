@@ -43,10 +43,9 @@ Run the below command to containerize the application backend.
 docker build -t frontend .
 ```
 
-
-
 frontend container 
 
+![image](https://github.com/AdarshIITDH/Azure-Security-and-Monitoring/assets/60352729/0b39e4ed-8e8e-4fee-92a4-a8114c4526a8)
 
 
 
